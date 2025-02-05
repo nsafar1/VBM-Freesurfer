@@ -4,10 +4,10 @@
 % without a GUI. It automates the smoothing process for multiple subjects
 % based on a given subject list.
 %
-% GitHub Repository: [Your GitHub Repo Link]
+% GitHub Repository: [---]
 %
-% Author: [Your Name]
-% Date: [Date]
+% Author: [Nooshin Safari]
+% Date: [02/05/2025]
 % License: MIT (or another license of your choice)
 % -------------------------------------------------
 
